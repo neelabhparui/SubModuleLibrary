@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.np.submodulelibrary" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="23"
+7-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml
+9
+10    <application
+10-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:6:5-15:32
+11        android:allowBackup="true"
+11-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:7:9-35
+12        android:dataExtractionRules="@xml/data_extraction_rules"
+12-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:8:9-65
+13        android:fullBackupContent="@xml/backup_rules"
+13-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:9:9-54
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:10:9-43
+15        android:label="@string/app_name"
+15-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:11:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:12:9-54
+17        android:supportsRtl="true"
+17-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:13:9-35
+18        android:theme="@style/Theme.SubModuleLibrary"
+18-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:14:9-54
+19        tools:targetApi="31" />
+19-->/Users/neelabh.parui/Documents/gitHub/SubModuleLibrary/SubModuleLibrary/src/main/AndroidManifest.xml:15:9-29
+20
+21</manifest>
